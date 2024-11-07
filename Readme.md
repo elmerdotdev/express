@@ -1,4 +1,4 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://expressjs.com/)
+[![Express Logo]([https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://expressjs.com/](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg))
 
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
